@@ -1,4 +1,4 @@
-(function() {
+function() {
   // If window.HTMLWidgets is already defined, then use it; otherwise create a
   // new object. This allows preceding code to set options that affect the
   // initialization process (though none currently exist).
